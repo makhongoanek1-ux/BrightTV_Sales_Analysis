@@ -69,5 +69,12 @@ The presentation covers:
 
 ---
 
+## 🛠️ Tools & Technologies
+- **SQL (Standard)**
+- **Snowflake Cloud Platform**
+- **MS Excel**
+
+---
+
 ## 🙏 Thank You
 This analysis provides actionable insights to help BrightTV **grow subscriptions, optimize programming, and expand market reach**.
