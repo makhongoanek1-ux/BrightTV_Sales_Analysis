@@ -70,6 +70,8 @@ The presentation covers:
 ---
 
 ## 🛠️ Tools & Technologies
+- **Miro**
+- - **Canva**
 - **SQL (Standard)**
 - **Snowflake Cloud Platform**
 - **MS Excel**
